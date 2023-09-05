@@ -1,2 +1,2 @@
 # charging
-EV charging opzimizer
+An EV charging opzimizer. A work in progress.
