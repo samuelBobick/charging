@@ -1,2 +1,2 @@
 # charging
-An EV charging opzimizer. A work in progress.
+An EV charging optimizer. A work in progress.
